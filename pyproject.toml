@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 psycopg2 = "^2.9.9"
 requests = "^2.32.3"
+prettytable = "^3.11.0"
+tqdm = "^4.66.5"
 
 
 [tool.poetry.group.lint.dependencies]
